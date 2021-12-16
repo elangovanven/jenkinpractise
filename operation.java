@@ -25,6 +25,7 @@ public class operations {
 		o.addition();
 		o.subraction();
 		System.out.println("Operations Done");
+		System.out.println("Operations Done");
 		
 	}
 

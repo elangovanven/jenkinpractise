@@ -8,6 +8,7 @@ public class operations {
 		int b = 7;		
 		int c = a+b;		
 		System.out.println("Sum of numbers is : "+c);
+		System.out.println("sum Done");
 	}
 	private void subraction() {
 		
@@ -16,6 +17,7 @@ public class operations {
 		int b = 7;		
 		int c = a-b;		
 		System.out.println("Subraction of numbers is : "+c);
+		System.out.println("sub Done");
 	}
 	public static void main(String[] args) {
 		

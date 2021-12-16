@@ -9,10 +9,19 @@ public class operations {
 		int c = a+b;		
 		System.out.println("Sum of numbers is : "+c);
 	}
+	private void subraction() {
+		
+		System.out.println("sub of numbers");		
+		int a = 6;
+		int b = 7;		
+		int c = a-b;		
+		System.out.println("Subraction of numbers is : "+c);
+	}
 	public static void main(String[] args) {
 		
 		operations o = new operations();
 		o.addition();
+		o.subraction();
 		
 		
 	}

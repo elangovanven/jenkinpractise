@@ -26,6 +26,7 @@ public class operations {
 		o.subraction();
 		System.out.println("Operations Done");
 		System.out.println("Operations Done");
+		System.out.println("Operations Done");
 		
 	}
 

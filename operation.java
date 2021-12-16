@@ -22,7 +22,7 @@ public class operations {
 		operations o = new operations();
 		o.addition();
 		o.subraction();
-		
+		System.out.println("Operations Done");
 		
 	}
 
